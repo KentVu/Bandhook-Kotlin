@@ -1,5 +1,5 @@
-private const val kotlinVersion = "1.2.21"
-private const val androidGradleVersion = "3.0.1"
+private const val kotlinVersion = "1.3.31"
+private const val androidGradleVersion = "3.4.2"
 
 // Compile dependencies
 private const val supportVersion = "27.0.2"
